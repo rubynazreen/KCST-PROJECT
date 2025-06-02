@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-02T21:00:55 GST" name="Default suite" finished-at="2025-06-02T21:01:32 GST" duration-ms="37397">
+    <groups>
+    </groups>
+    <test started-at="2025-06-02T21:00:55 GST" name="Default test" finished-at="2025-06-02T21:01:32 GST" duration-ms="37397">
+      <class name="test.AdmTest">
+        <test-method is-config="true" signature="SetConfig()[pri:0, instance:test.AdmTest@15de0b3c]" started-at="2025-06-02T21:00:55 GST" name="SetConfig" finished-at="2025-06-02T21:01:02 GST" duration-ms="7131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetConfig -->
+        <test-method is-config="true" signature="objinit()[pri:0, instance:test.AdmTest@15de0b3c]" started-at="2025-06-02T21:01:02 GST" name="objinit" finished-at="2025-06-02T21:01:03 GST" duration-ms="1104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objinit -->
+        <test-method signature="LoginTest()[pri:1, instance:test.AdmTest@15de0b3c]" started-at="2025-06-02T21:01:03 GST" name="LoginTest" finished-at="2025-06-02T21:01:07 GST" duration-ms="3844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.AdmTest@15de0b3c]" started-at="2025-06-02T21:01:07 GST" name="tearDown" finished-at="2025-06-02T21:01:11 GST" duration-ms="3382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="Apptest1()[pri:2, instance:test.AdmTest@15de0b3c]" started-at="2025-06-02T21:01:11 GST" name="Apptest1" finished-at="2025-06-02T21:01:21 GST" duration-ms="10498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Apptest1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.AdmTest@15de0b3c]" started-at="2025-06-02T21:01:21 GST" name="tearDown" finished-at="2025-06-02T21:01:22 GST" duration-ms="1021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="NEgtestLogin1()[pri:3, instance:test.AdmTest@15de0b3c]" started-at="2025-06-02T21:01:22 GST" name="NEgtestLogin1" finished-at="2025-06-02T21:01:24 GST" duration-ms="1895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEgtestLogin1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.AdmTest@15de0b3c]" started-at="2025-06-02T21:01:24 GST" name="tearDown" finished-at="2025-06-02T21:01:25 GST" duration-ms="981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="NEgtestLogin2()[pri:4, instance:test.AdmTest@15de0b3c]" started-at="2025-06-02T21:01:25 GST" name="NEgtestLogin2" finished-at="2025-06-02T21:01:26 GST" duration-ms="1246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEgtestLogin2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.AdmTest@15de0b3c]" started-at="2025-06-02T21:01:26 GST" name="tearDown" finished-at="2025-06-02T21:01:27 GST" duration-ms="1033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="NEgtestLogin3()[pri:5, instance:test.AdmTest@15de0b3c]" started-at="2025-06-02T21:01:27 GST" name="NEgtestLogin3" finished-at="2025-06-02T21:01:29 GST" duration-ms="1295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEgtestLogin3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.AdmTest@15de0b3c]" started-at="2025-06-02T21:01:29 GST" name="tearDown" finished-at="2025-06-02T21:01:30 GST" duration-ms="1017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="NEgtestLogin4()[pri:6, instance:test.AdmTest@15de0b3c]" started-at="2025-06-02T21:01:30 GST" name="NEgtestLogin4" finished-at="2025-06-02T21:01:31 GST" duration-ms="1373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NEgtestLogin4 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.AdmTest@15de0b3c]" started-at="2025-06-02T21:01:31 GST" name="tearDown" finished-at="2025-06-02T21:01:32 GST" duration-ms="1055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:test.AdmTest@15de0b3c]" started-at="2025-06-02T21:01:32 GST" name="quit" finished-at="2025-06-02T21:01:32 GST" duration-ms="412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- test.AdmTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
